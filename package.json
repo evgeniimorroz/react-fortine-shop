@@ -1,6 +1,6 @@
 {
   "name": "magazine",
-  "home": "https://evgeniimorroz.github.io/react-fortine-shop",
+  "homepage": "https://evgeniimorroz.github.io/react-fortine-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
